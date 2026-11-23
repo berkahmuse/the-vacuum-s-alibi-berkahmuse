@@ -8,9 +8,9 @@ Entry for [The Vacuum's Alibi: One Line, 200 Characters](https://make.fun/c/u-ge
 
 ## The line
 
-> I did not miss that spot. The dust there formed a union, and my contract forbids crossing a picket line.
+> I did not miss that spot. The dust there unionized, and my contract forbids crossing a picket line.
 
-104 characters, one line.
+100 characters, one line.
 
 ## How it works
 

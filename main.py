@@ -8,7 +8,7 @@ No network, no randomness, no input: every run writes the same bytes.
 import os
 
 ENTRY = (
-    "I did not miss that spot. The dust there formed a union, "
+    "I did not miss that spot. The dust there unionized, "
     "and my contract forbids crossing a picket line."
 )
 
